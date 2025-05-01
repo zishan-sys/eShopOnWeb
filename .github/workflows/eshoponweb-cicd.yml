@@ -8,8 +8,8 @@ env:
   RESOURCE-GROUP: rg-eshoponweb
   LOCATION: eastus2
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: f8e2b2fe-238e-4585-84c8-0865b9fef55b
-  WEBAPP-NAME: eshoponweb-webapp50883273
+  SUBSCRIPTION-ID: 2373474b-de0c-4d2b-9ec2-aea441817e2d
+  WEBAPP-NAME: eshoponweb-webapp50897319
 
 
 jobs:
